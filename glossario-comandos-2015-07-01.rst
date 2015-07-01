@@ -4,8 +4,8 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Mateus Barbosa Martins
+:Matrícula: 20121144010753
 :Data: 01/07/2015
 
 cat
